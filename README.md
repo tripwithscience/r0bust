@@ -1,2 +1,2 @@
-this is a simple password generator
-usage:./Offrey.py
+this is a simple code to obtain ips from a p2p connection.
+
